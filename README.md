@@ -1,5 +1,5 @@
 # bookstore-database
-PLP GROUP 67
+PLP GROUP 63
 # BookStore Database Project 📚
 
 This project is a relational database for a bookstore, created using MySQL. It manages essential data about books, authors, customers, orders, and shipping methods.
